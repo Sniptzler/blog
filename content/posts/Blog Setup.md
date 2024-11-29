@@ -10,4 +10,10 @@ weight: "2"
 ---
 Hier erkläre ich wie die Website aufgebaut ist.
 
+Stichpunkte:
+- Hugo
+- firebase hosting
+- Obsidian
+- auto deploy
+
 https://blog.networkchuck.com/posts/my-insane-blog-pipeline/

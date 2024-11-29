@@ -45,20 +45,20 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Lukas Schmitt
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    subtitle: "Sailor and Computer Science"
+    imageUrl: "profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Posts
         url: posts
-      - name: Categories
-        url: categories
       - name: Tags
         url: tags
+      - name: Homepage
+        url: "https://schmittlu.de/"
 
 
   # home-info mode

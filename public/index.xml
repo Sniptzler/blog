@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mein Blog</title>
+    <link>https://blog.schmittlu.de/</link>
+    <description>Recent content on Mein Blog</description>
+    <image>
+      <title>Mein Blog</title>
+      <url>https://blog.schmittlu.de/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.schmittlu.de/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.2</generator>
+    <language>de-ge</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
+    <atom:link href="https://blog.schmittlu.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein Blog</title>
+      <link>https://blog.schmittlu.de/posts/post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.schmittlu.de/posts/2.-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/2.-blog/</guid>
+      <description>&lt;p&gt;Das ist ein reiner Test
+tknits omit&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.schmittlu.de/posts/mein-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/mein-blog/</guid>
+      <description>&lt;p&gt;Hey, das ist mein Blog. Was hier geschieht weiß ich selber noch nicht.
+Vielleicht das ein oder andere übers Segeln oder übers Programmieren, vielleicht auch über beides. Wer weiß wo mich das hinführt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://blog.schmittlu.de/posts/unterordner/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/unterordner/test/</guid>
+      <description>&lt;p&gt;was passiert in einem unterordner?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

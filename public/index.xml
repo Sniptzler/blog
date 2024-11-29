@@ -11,29 +11,14 @@
     </image>
     <generator>Hugo -- 0.139.2</generator>
     <language>de-ge</language>
+    <lastBuildDate>Fri, 29 Nov 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://blog.schmittlu.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://blog.schmittlu.de/posts/2.-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.schmittlu.de/posts/2.-blog/</guid>
-      <description>&lt;p&gt;Das ist ein reiner Test
-tknits omit&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
+      <title>Mein Blog</title>
       <link>https://blog.schmittlu.de/posts/mein-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
       <guid>https://blog.schmittlu.de/posts/mein-blog/</guid>
-      <description>&lt;p&gt;Hey, das ist mein Blog. Was hier geschieht weiß ich selber noch nicht.
-Vielleicht das ein oder andere übers Segeln oder übers Programmieren, vielleicht auch über beides. Wer weiß wo mich das hinführt.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://blog.schmittlu.de/posts/unterordner/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.schmittlu.de/posts/unterordner/test/</guid>
-      <description>&lt;p&gt;was passiert in einem unterordner?&lt;/p&gt;</description>
+      <description>1. Post</description>
     </item>
   </channel>
 </rss>

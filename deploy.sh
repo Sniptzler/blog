@@ -9,6 +9,8 @@ git add .
 
 git commit -m "deploy: run deploy script"
 
+git pull
+
 git push
 
 firebase deploy

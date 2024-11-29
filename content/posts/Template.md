@@ -6,6 +6,6 @@ tags:
 author: Me
 description: Tempate
 weight: "2"
-draft: "true"
+draft: true
 ---
 Template

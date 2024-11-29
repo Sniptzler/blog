@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.schmittlu.de/tags/first/</loc>
-    <lastmod>2024-11-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.schmittlu.de/</loc>
-    <lastmod>2024-11-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.schmittlu.de/posts/post/</loc>
-    <lastmod>2024-11-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.schmittlu.de/posts/</loc>
-    <lastmod>2024-11-29T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.schmittlu.de/tags/</loc>
-    <lastmod>2024-11-29T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://blog.schmittlu.de/posts/2.-blog/</loc>
   </url><url>
     <loc>https://blog.schmittlu.de/posts/mein-blog/</loc>
@@ -24,5 +9,11 @@
     <loc>https://blog.schmittlu.de/posts/unterordner/test/</loc>
   </url><url>
     <loc>https://blog.schmittlu.de/categories/</loc>
+  </url><url>
+    <loc>https://blog.schmittlu.de/</loc>
+  </url><url>
+    <loc>https://blog.schmittlu.de/posts/</loc>
+  </url><url>
+    <loc>https://blog.schmittlu.de/tags/</loc>
   </url>
 </urlset>

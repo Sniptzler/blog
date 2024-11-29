@@ -26,9 +26,8 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -47,7 +46,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Lukas Schmitt
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -56,6 +55,8 @@ params:
     buttons:
       - name: Posts
         url: posts
+      - name: Categories
+        url: categories
       - name: Tags
         url: tags
 
@@ -76,6 +77,10 @@ params:
   #     SiteVerificationTag: "XYZabc"
   #   yandex:
   #     SiteVerificationTag: "XYZabc"
+
+  mainSections:
+    - posts
+
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -100,10 +105,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: tags
       url: /tags/

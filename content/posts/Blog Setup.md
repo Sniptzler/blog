@@ -16,4 +16,8 @@ Stichpunkte:
 - Obsidian
 - auto deploy
 
+Inspo:
 https://blog.networkchuck.com/posts/my-insane-blog-pipeline/
+
+Github:
+https://github.com/Sniptzler/blog

@@ -45,12 +45,12 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Lukas Schmitt
     subtitle: "Sailor and Computer Science"
     imageUrl: "profile.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 190
+    imageHeight: 190
     imageTitle: my image
     buttons:
       - name: Posts

@@ -9,3 +9,5 @@ description: Hier erkläre ich wie das die Website aufgebaut ist.
 weight: "2"
 ---
 Hier erkläre ich wie die Website aufgebaut ist.
+
+https://blog.networkchuck.com/posts/my-insane-blog-pipeline/

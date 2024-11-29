@@ -6,5 +6,6 @@ tags:
 author: Me
 description: Tempate
 weight: "2"
+hide: "1"
 ---
 Template

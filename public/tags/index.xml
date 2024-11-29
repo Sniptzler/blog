@@ -14,17 +14,31 @@
     <lastBuildDate>Fri, 29 Nov 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="https://blog.schmittlu.de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://blog.schmittlu.de/tags/first/</link>
-      <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
-      <guid>https://blog.schmittlu.de/tags/first/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Template</title>
       <link>https://blog.schmittlu.de/tags/template/</link>
       <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
       <guid>https://blog.schmittlu.de/tags/template/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog-Setup</title>
+      <link>https://blog.schmittlu.de/tags/blog-setup/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/tags/blog-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docs</title>
+      <link>https://blog.schmittlu.de/tags/docs/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://blog.schmittlu.de/tags/first/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/tags/first/</guid>
       <description></description>
     </item>
   </channel>

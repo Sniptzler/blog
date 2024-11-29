@@ -7,6 +7,4 @@ author: Me
 description: Tempate
 weight: "2"
 ---
-
-  
 Template

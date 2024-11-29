@@ -16,16 +16,9 @@
     <item>
       <title>Mein Blog</title>
       <link>https://blog.schmittlu.de/posts/mein-blog/</link>
-      <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.schmittlu.de/posts/mein-blog/</guid>
       <description>1. Post</description>
-    </item>
-    <item>
-      <title>I use arch btw!</title>
-      <link>https://blog.schmittlu.de/posts/archlinux/</link>
-      <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
-      <guid>https://blog.schmittlu.de/posts/archlinux/</guid>
-      <description>ArchLinux setup</description>
     </item>
     <item>
       <title>Template</title>
@@ -33,6 +26,20 @@
       <pubDate>Fri, 29 Nov 2024 11:30:03 +0000</pubDate>
       <guid>https://blog.schmittlu.de/posts/template/</guid>
       <description>Tempate</description>
+    </item>
+    <item>
+      <title>Blog Setup</title>
+      <link>https://blog.schmittlu.de/posts/blog-setup/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/blog-setup/</guid>
+      <description>Hier erkläre ich wie das die Website aufgebaut ist.</description>
+    </item>
+    <item>
+      <title>I use arch btw!</title>
+      <link>https://blog.schmittlu.de/posts/archlinux/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.schmittlu.de/posts/archlinux/</guid>
+      <description>ArchLinux setup</description>
     </item>
   </channel>
 </rss>

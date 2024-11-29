@@ -5,7 +5,7 @@ tags:
   - first
 author: Me
 description: ArchLinux setup
-weight: "2"
+weight: "1"
 ---
 
   

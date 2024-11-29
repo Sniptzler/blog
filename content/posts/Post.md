@@ -13,13 +13,13 @@ hidemeta: false
 comments: true
 description: "1. Post"
 #canonicalURL: "https://canonical.url/to/page"
-disableShare: true
+disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd /home/lukas/Dokumente/blog
 
 rsync -av /home/lukas/Dokumente/Obsidian-Notes/posts/ /home/lukas/Dokumente/blog/content/posts/
 

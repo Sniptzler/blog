@@ -2,11 +2,11 @@
 title: I use arch btw!
 date: 2024-11-29
 tags:
-  - first
+  - archlinux
 author: Me
 description: ArchLinux setup
 weight: "2"
 ---
-
+I use arch btw.
   
 Vielleicht schreib ich hier was über mein Arch Linux setup.

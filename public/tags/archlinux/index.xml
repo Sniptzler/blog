@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>First on Lukas Blog</title>
-    <link>https://blog.schmittlu.de/tags/first/</link>
-    <description>Recent content in First on Lukas Blog</description>
+    <title>Archlinux on Lukas Blog</title>
+    <link>https://blog.schmittlu.de/tags/archlinux/</link>
+    <description>Recent content in Archlinux on Lukas Blog</description>
     <image>
       <title>Lukas Blog</title>
       <url>https://blog.schmittlu.de/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,13 +12,13 @@
     <generator>Hugo -- 0.139.3</generator>
     <language>de-ge</language>
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.schmittlu.de/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.schmittlu.de/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mein Blog</title>
-      <link>https://blog.schmittlu.de/posts/mein-blog/</link>
+      <title>I use arch btw!</title>
+      <link>https://blog.schmittlu.de/posts/archlinux/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.schmittlu.de/posts/mein-blog/</guid>
-      <description>1. Post</description>
+      <guid>https://blog.schmittlu.de/posts/archlinux/</guid>
+      <description>ArchLinux setup</description>
     </item>
   </channel>
 </rss>

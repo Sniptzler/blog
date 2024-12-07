@@ -47,7 +47,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Lukas Schmitt
-    subtitle: "Sailor and Computer Science"
+    subtitle: "Sailing and Computer Science"
     imageUrl: "profile.jpg"
     imageWidth: 190
     imageHeight: 190
